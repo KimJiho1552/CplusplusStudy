@@ -1,0 +1,2 @@
+C:\Users\KCCI12\source\repos\C_struct\Debug\C_struct.exe
+C:\CppStudy\C_struct\Debug\C_struct.exe

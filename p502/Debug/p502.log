@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\CppStudy\p502\main.cpp(12,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\CppStudy\p502\main.cpp(20,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  p502.vcxproj -> C:\CppStudy\p502\Debug\p502.exe
